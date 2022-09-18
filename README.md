@@ -1,3 +1,5 @@
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/MPxg9U887PS0B8XT4J" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hello-hi-greetings-MPxg9U887PS0B8XT4J">via GIPHY</a></p>
+
 ### Hi! I'm Gabriel Marcos Lopes
 
 -  👨🏿‍🎓 I study Computer Science at UFLA-MG BRAZIL
